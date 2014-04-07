@@ -1,2 +1,2 @@
 all:
-	cc -Wall prompt.c -ledit -o prompt
+	cc -Wall prompt.c mpc.c -ledit -o prompt
